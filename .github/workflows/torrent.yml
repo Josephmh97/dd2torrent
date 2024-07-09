@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Wilcom EmbroideryStudio e2.0"
+  comment: "Wilcom EmbroideryStudio e2.0"
+  url: "https://archive.org/download/Wilcom.EmbroideryStudio.e2.0/ES_V2.0J_%28ML%29.iso"
+  file_name: "ES_V2.0J_(ML).iso"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
