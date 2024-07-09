@@ -7,8 +7,8 @@ on:
 env:
   name: "Wilcom EmbroideryStudio e2.0"
   comment: "Wilcom EmbroideryStudio e2.0 DO"
-  url: "https://archive.org/download/Wilcom.EmbroideryStudio.e2.0/ES_V2.0J_%28ML%29.iso"
-  file_name: "ES_V2.0J_(ML).iso"
+  url: "https://download1335.mediafire.com/3pp9h4nu2kmgh_-mLKTKkfeyRBiWw_JuPN85H5KoG0RpA0xgsSHG4oqztcgDI9JHclZxOPJhm01W2ewM9o45Et8BDXgAxGUHPAr32asZhHQOdZ0GtSXuFzb2JT6877g-pONE10mDEQZt70jZ7Csxwc9yKzux_Fp5-yy0OJZEPCQMu7Qw/ezcej86y6xpievq/LOMBARKIA_Wilcom+V2.0J-full.zip"
+  file_name: "LOMBARKIA_Wilcom V2.0J-full.zip"
   piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
